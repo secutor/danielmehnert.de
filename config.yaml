@@ -68,8 +68,6 @@ params:
       url: "tel:+49163-8631698"
     - name: mastodon
       url: "https://ieji.de/@secutor"
-    - name: twitter
-      url: "https://twitter.com/danielmehnert"
     - name: linkedin
       url: "http://www.linkedin.com/pub/daniel-mehnert/11/429/b"
     - name: xing
