@@ -95,14 +95,17 @@ I made some updates to the config file, to enable local network access and conne
 configuration to actually enable it. 
 
 ```bash
-$ cat /etc/miniflux.cfg
+$ nano /etc/miniflux.cfg
 # See https://miniflux.app/docs/configuration.html
 DATABASE_URL=user=miniflux password=****** dbname=miniflux2 sslmode=disable
-LISTEN_ADDR=192.168.178.96:8472
+LISTEN_ADDR=<SET YOUR IP HERE>:<PORT>
 RUN_MIGRATIONS=1
-# Set up an admin user to get into the web-application
-$ miniflux -create-admin
+# Set up an admin user to get into the web-application using the previous config update
+$ miniflux -create-admin -c /etc/miniflux.cfg
 ```
+
+For some reason the updated config file is used in the running system process but not when invoking manually. 
+So the -create-admin command is required to set up the user for miniflux to get access in the browser. 
 
 ## Additional niceties
 
