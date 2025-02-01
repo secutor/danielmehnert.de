@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   env: development # to enable google analytics, opengraph, twitter-cards and schema.
   title: danielmehnert.de
-  description: "personal profile page"
+  description: "personal profile page & blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Daniel Mehnert
   # author: ["Me", "You"] # multiple authors
