@@ -13,7 +13,7 @@ params:
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
-  disableThemeToggle: true
+  disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -74,6 +74,10 @@ params:
       url: "http://www.xing.com/profile/Daniel_Mehnert"
     - name: googlescholar
       url: "https://scholar.google.de/citations?user=kZ5ecLUAAAAJ"
+    - name: komoot
+      url: "https://www.komoot.com/de-de/user/3915355330902"
+    - name: letterboxd
+      url: "https://letterboxd.com/danielmehnert/"
     
 
 
