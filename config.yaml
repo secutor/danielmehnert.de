@@ -74,8 +74,8 @@ params:
       url: "http://www.xing.com/profile/Daniel_Mehnert"
     - name: googlescholar
       url: "https://scholar.google.de/citations?user=kZ5ecLUAAAAJ"
-    - name: komoot
-      url: "https://www.komoot.com/de-de/user/3915355330902"
+    - name: strava
+      url: "https://www.strava.com/athletes/32273186"
     - name: letterboxd
       url: "https://letterboxd.com/danielmehnert/"
     
