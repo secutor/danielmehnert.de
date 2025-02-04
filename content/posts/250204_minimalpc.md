@@ -2,7 +2,7 @@
 title: "My minimal PC setup '25 edition"
 date: 2025-02-04T08:32:00+02:00
 
-draft: false
+draft: true
 ---
 
 ## Introduction
