@@ -50,7 +50,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Daniel Mehnert
     subtitle: "Koppelweg 45 - 27305 Bruchhausen-Vilsen"
-    imageUrl: "./img/profile.jpeg"
+    imageUrl: "./img/profile2.jpeg"
     imageWidth: 180
     imageHeight: 180
     imageTitle: Daniel Mehnert's profile picture
