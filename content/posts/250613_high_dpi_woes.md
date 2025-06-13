@@ -7,7 +7,7 @@ date: 2025-06-13T08:16:00+02:00
 Brief hack for enabling hi-DPI mode in several applications on wayland 
 Desktops: 
 
-![Screenshot visualizing grain in signal desktop compared to the rest of the UI]("img/signal_desktop_grain.png")
+![Screenshot visualizing grain in signal desktop compared to the rest of the UI](img/signal_desktop_grain.png)
 
 When installing Signal Desktop on my Debian box using sway Desktop, 
 I noticed ugly scaling issues on my high DPI screen. 
